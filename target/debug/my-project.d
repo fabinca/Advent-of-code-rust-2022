@@ -1,1 +1,1 @@
-/home/runner/Rust/target/debug/my-project: /home/runner/Rust/src/main.rs
+/home/runner/Advent-of-code/target/debug/my-project: /home/runner/Advent-of-code/src/main.rs
